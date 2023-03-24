@@ -1,23 +1,20 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 body{
-    font-family: 'Fasthand', cursive;
+    font-family: 'Kalam', cursive;
     text-align: center;
     margin:auto;
-    
    
 }
 .main-heading{
    border-bottom-right-radius: 3rem;
-    background-color: rgb(255, 217, 0);
+    background-color:rgb(249, 181, 45);
     padding-top:0.5rem ;
     font-size:large;
     
 }
 textarea{
     text-align:center;
-    font-family: 'Fasthand', cursive;
     font-size:x-large;
     width:30%;
     height: 5vh;
@@ -37,17 +34,18 @@ margin:auto;
 }
 #btn-translate{
     font-family: 'Fasthand', cursive;
-   background-color:rgb(255, 217, 0);
+   background-color:rgb(249, 181, 45);
    font-size: medium;
    padding:0.5rem;
    width:10%;
    margin-top:2rem;
-   border-color: rgb(255, 217, 0);
+   border-color: rgb(249, 181, 45);
+   margin-bottom: 1rem;
    
 }
 .foot{
-    background-color: rgb(255, 217, 0);
-    padding-bottom:5.5rem ;
+    background-color:  rgb(249, 181, 45);
+    padding-bottom:4rem ;
     margin-top:2rem;
     margin-bottom:none;
     text-align:center;
